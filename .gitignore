@@ -1,0 +1,8 @@
+.env
+build
+dist
+client_secret_244626337929-041gr73sel2dclu2noffdvbasenk4upc.apps.googleusercontent.com.json
+main.log
+main.spec
+outlook_calendar.xlsx
+token.jsontoke.pickle
